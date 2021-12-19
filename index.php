@@ -7,8 +7,6 @@
     <style>
 
 
-    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
-
       .search {
           text-align: center;
           font-family: Montserrat;
@@ -83,7 +81,7 @@ body {
 <br>
 <br>
 <div class="search">
-<p><mark>what up homie</mark></p>
+<h1 style="font-family: Arial;"><mark>heroku :)</mark></h1>
 </div>
 <div class="info">
 <script async src="https://cse.google.com/cse.js?cx=005845227732198661462:xl3wr8jpjog"></script>
