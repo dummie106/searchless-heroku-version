@@ -12,4 +12,37 @@ if (is_uploaded_file($_FILES['filename']['tmp_name']))  {
      Echo "File is not uploaded.";
 };
 ?>
+<head>
+  <style>
+        @keyframes bgcolor {
+    0% {
+        background-color: #45a3e5
+    }
+
+    30% {
+        background-color: #66bf39
+    }
+
+    60% {
+        background-color: #eb670f
+    }
+
+    90% {
+        background-color: #f35
+    }
+
+    100% {
+        background-color: #864cbf
+    }
+}
+
+body {
+    -webkit-animation: bgcolor 30s infinite;
+    animation: bgcolor 20s infinite;
+    -webkit-animation-direction: alternate;
+    animation-direction: alternate;
+}
+
+  </style>
+</head>
 <iframe src="https://searchless.herokuapp.com/cloud/" style="border:0px #ffffff none;" name="yo" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
