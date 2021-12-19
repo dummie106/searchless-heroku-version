@@ -81,7 +81,7 @@ body {
 <br>
 <br>
 <div class="search">
-    <h1 style="font-family: Arial;"><mark><i>searchless</i></mark></h1>
+    <h1 style="font-family: Arial; color: pink;"><i>searchless</i></h1>
 </div>
 <div class="info">
 <script async src="https://cse.google.com/cse.js?cx=005845227732198661462:xl3wr8jpjog"></script>
