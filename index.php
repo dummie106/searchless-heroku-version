@@ -1,7 +1,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
-    <title>the no history search engine</title>
+    <title>𝕤𝕖𝕒𝕣𝕔𝕙𝕝𝕖𝕤𝕤</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Required CSS -->
     <style>
