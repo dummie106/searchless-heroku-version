@@ -45,4 +45,8 @@ body {
 
   </style>
 </head>
+<form action="upload.php" method="post" enctype="multipart/form-data">
+File: <input type="file" name="filename" />
+<input type="submit" value="Upload" />
+</form>
 <iframe src="https://searchless.herokuapp.com/cloud/" style="border:0px #ffffff none;" name="yo" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="100%" width="100%" allowfullscreen></iframe>
