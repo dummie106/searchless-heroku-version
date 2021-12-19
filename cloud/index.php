@@ -1,3 +1,8 @@
+<form action="upload.php" method="post" enctype="multipart/form-data">
+File: <input type="file" name="filename" />
+<input type="submit" value="Upload" />
+</form>
+
 <?php
 
 // function to get the file extension (type)
